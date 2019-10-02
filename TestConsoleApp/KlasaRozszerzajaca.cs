@@ -10,6 +10,7 @@ namespace TestConsoleApp
     {
         public static bool isFirstLetterCapitalized(this string a)
         {
+            Console.WriteLine("GitHub Test");
             return Char.IsUpper(a[0]);
         }
     }
