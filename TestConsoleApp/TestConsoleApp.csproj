@@ -48,6 +48,7 @@
     <Compile Include="Indekser.cs" />
     <Compile Include="Interfejs.cs" />
     <Compile Include="KlasaGeneryczna.cs" />
+    <Compile Include="KlasaRozszerzajaca.cs" />
     <Compile Include="Listy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

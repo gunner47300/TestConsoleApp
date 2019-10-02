@@ -53,10 +53,8 @@ namespace TestConsoleApp
 
         static void Main(string[] args)
         {
-            KlasaGeneryczna<string> a = new KlasaGeneryczna<string>();
-            a.Swap("elo", "lol");
-
-            a.SwapAny(10, 20);
+            string a = "alala";
+            Console.WriteLine(a.isFirstLetterCapitalized());
 
             Console.ReadKey();
         }
